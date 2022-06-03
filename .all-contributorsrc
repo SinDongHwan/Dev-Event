@@ -465,6 +465,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "limsaehyun",
+      "name": "임세현",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80076029?v=4",
+      "profile": "http://saehyun.kr",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ysjk2003",
+      "name": "Kim Min Gyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26460114?v=4",
+      "profile": "https://parkshistory.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Cardroid",
+      "name": "CP6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25889754?v=4",
+      "profile": "https://github.com/Cardroid",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MilkClouds",
+      "name": "MilkClouds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26109705?v=4",
+      "profile": "https://milkclouds.work/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

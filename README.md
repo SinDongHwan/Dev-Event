@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -107,102 +107,9 @@
 
 - 2020년 행사: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
 - 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md), [12월](./2021/21_12.md)
-- 2022년 행사: [01월](./2022/22_01.md), [02월](./2022/22_02.md), [03월](./2022/22_03.md), [04월](./2022/22_04.md)
+- 2022년 행사: [01월](./2022/22_01.md), [02월](./2022/22_02.md), [03월](./2022/22_03.md), [04월](./2022/22_04.md), [05월](./2022/22_05.md)
 - 지난 개발자 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
 - 개발자 행사 참여 후기: [바로가기](./review/review.md)
-
-<br />
-
-## 22년 05월
-- __[금융권 취업/커리어 멘토링 : HOLIX 라이브세션](https://festa.io/events/2307)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 홀릭스
-  - 일시: 05. 22(일) 20:00 ~ 21:00
-
-- __[제16회 경기게임오디션 참가자 모집](https://audition.gcon.or.kr/audition/main/main.php)__
-  - 분류: `경진대회`
-  - 주최: 경기도
-  - 일시: 05. 03(화) ~ 05. 23(월)
-- __[토스페이먼츠 비전세션](https://docs.google.com/forms/d/e/1FAIpQLSd5a8Q3ormILJu93OY4jBW1X0jD-l_nwg9bva_q1owmdsTczA/viewform)__
-  - 분류: `웨비나`
-  - 주최: 토스페이먼츠
-  - 모집: 05. 10(화) ~ 05. 24(화)
-- __[SK텔레콤 AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
-  - 분류: `교육`, `AI`
-  - 주최: SKT
-  - 모집: 05. 11(수) ~ 05. 24(화)
-- __[라인프렌즈 개발자가 들려주는 개발자 이야기](https://allforyoung.com/posts/16163/)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 구디아카데미
-  - 접수: 05. 12(목) ~ 05. 24(화)
-- __[ETRI CONFERENCE 2022](https://etri-conference.org/)__
-  - 분류: `웨비나`
-  - 주최: 과학기술정보통신부
-  - 모집: 05. 24(화) ~ 05. 25(수)
-- __[[카카오클라우드 스쿨] 1기 클래스메이트 모집](http://kakaocloudschool.rapa.or.kr)__
-  - 분류: `교육`, `클라우드`
-  - 주최: 고용노동부
-  - 모집: 05. 03(화) ~ 05. 25(수)
-- __[[아마존]클라우드 커리어 탐색 및 채용 설명회](https://event.gotowebinar.com/event/1cf26158-2db9-422f-8248-2e0b10534fa9)__
-  - 분류: `웨비나`, `채용`
-  - 주최: aws
-  - 일시: 05. 23(월) ~ 05. 26(목)
-- __[[OKKY 5월 세미나] 실전 MSA 경험 공유](https://okky.kr/article/1229709)__
-  - 분류: `웨비나`, `MSA`
-  - 주최: okky
-  - 일시: 05. 26(목) 20:00 ~ 22:00
-- __[캐치 커리어콘 AI](https://www.catch.co.kr/CatchClass/CareerCon)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 캐치
-  - 일시: 05. 24(화) ~ 05. 26(목)
-- __[NVIDIA Technology Day for AI Research](https://festa.io/events/2283)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 05. 26(목)
-- __[내마음대로 API "API 호출하여 GCP 사용하기](https://mkg.bespinglobal.com/gcpapi)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 베스핀글로벌
-  - 일시: 05. 26(목) 14:00 ~ 15:00
-- __[쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](http://www.digitaltoday.co.kr/bbs/view.html?idxno=84&sc_category=)__
-  - 분류: `웨비나`, `nginx`
-  - 주최: 디지털투데이
-  - 일시: 05. 26(목) 14:00 ~ 15:00
-- __[[SSAFY] 강사 양성 과정](https://festa.io/events/2312)__
-  - 분류: `오프라인`, `메타버스`
-  - 주최: (주)메쎼이상
-  - 일시: 05. 17(화) ~ 05. 26(목)
-- __[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발](https://festa.io/events/2264)__
-  - 분류: `웨비나`
-  - 주최: 과학기술정보통신부
-  - 일시: 05. 25(수) ~ 05. 27(금)
-- __[[코딩이랑 무관합니다만 X 마켓컬리] 커리어패스와 무관합니다만](https://festa.io/events/2310)__
-  - 분류: `웨비나`
-  - 주최: 코딩이란 무관합니다만
-  - 일시: 05. 27(금) 18:50 ~ 20:40
-- __[KT AIVLE School(에이블스쿨) 2기 모집](https://www.kt-aivleschool-recruit.com/Recruit/Detail?id=2)__
-  - 분류: `교육`
-  - 주최: AIVLE
-  - 일시: 04. 25(월) ~ 05. 27(금)
-- __[머신러닝 개발자 양성프로그램 - 2022년 3기 머신러닝 부트캠프](https://developers-kr.googleblog.com/2022/05/mlbootcamp22.html)__
-  - 분류: `교육`
-  - 주최: Google
-  - 모집: 05. 16(월) ~ 05. 29(일)
-- __[새싹(SeSAC) SW취업과정 영등포 캠퍼스 교육생 모집](https://sesac.oopy.io/)__
-  - 분류: `교육`
-  - 주최: SeSAC
-  - 일시: 04. 09(토) ~ 05. 30(월)
-- __[Gitlab Korea 밋업 #11 - 고가용성 GitLab을 만드는 방법](https://festa.io/events/2302)__
-  - 분류: `웨비나`
-  - 주최: GitLab Korea
-  - 일시: 05. 30(월) 19:00 ~ 21:00
-- __[Google Developer Student Club(GDSC) Lead 모집](https://developers-kr.googleblog.com/2022/04/google-developer-student-club-2022-lead_01421805175.html)__
-  - 분류: `모임`
-  - 주최: Google Developers Korea
-  - 접수: 04. 01(금) ~ 05. 31(화)
-- __[CJ Feed&Care CUBE 아이디어 공모전](https://www.all-con.co.kr/view/contest/478687)__
-  - 분류: `공모전`
-  - 주최: CJ
-  - 일시: 05. 02(월) ~ 05. 31(화)
 
 <br />
 
@@ -212,10 +119,30 @@
   - 주최: 과학기술정보통신부
   - 접수: 05. 09(월) ~ 06. 03(금)
 
+- __[Ubuntu 22.04 LTS Release Party + InstallFest](https://festa.io/events/2313)__
+  - 분류: `우분투`
+  - 주최: 우분투한국커뮤니티
+  - 접수: 06. 04(토) 14:00 ~ 18:00
 - __[엘리스 AI 트랙 5기 모집](https://festa.io/events/2286)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
   - 일시: 05. 09(월) ~ 06. 05(일)
+- __[CosmWasm를 기반한 블록체인 스마트 컨트랙트 개발](https://festa.io/events/2342)__
+  - 분류: `해커톤`, `블록체인`
+  - 주최: 콘스텔레이션코리아
+  - 일시: 05. 16(월) ~ 06. 05(일)
+- __[Live 온라인: 오픈소스 개발자로 취업하는 방법](https://festa.io/events/2329)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 리얼리눅스
+  - 일시: 06. 08(수) 20:00 ~ 20:30
+- __[부스트 캠프 온라인설명회](https://booking.naver.com/booking/12/bizes/527067)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 커넥트 재단
+  - 접수: 05. 30(월) ~ 06. 07(화)
+- __[Microsoft Build 2022를 보고 나서! (첫번째 밋업)](https://festa.io/events/2346)__
+  - 분류: `오프라인`
+  - 주최: 마이크로소프트
+  - 일시: 06. 08(수) 19:00 ~ 21:00
 - __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
@@ -228,6 +155,14 @@
   - 분류: `컨퍼런스`
   - 주최: 넥슨
   - 일시: 06. 07(화) ~ 06. 10(금)
+- __[토스 개발자 컨퍼런스 SLASH 22](https://toss.im/slash-22)__
+  - 분류: `컨퍼런스`
+  - 주최: 토스
+  - 일시: 06. 08(수) ~ 06. 10(금)
+- __[[송파 클로저] Clojure 밋업 1회](https://festa.io/events/2320)__
+  - 분류: `웨비나`
+  - 주최: 그린랩스
+  - 일시: 06. 10(금) 18:00 ~ 21:00
 - __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
   - 분류: `대회`, `DevOps`, `AI`, `클라우드`
   - 주최: 마이크로소프트
@@ -236,18 +171,58 @@
   - 분류: `교육`
   - 주최: NHN커머스
   - 일시: 05. 25(수) ~ 06. 10(금)
+- __[중고차 가격 예측 경진대회](https://dacon.io/competitions/official/235901/overview/description)__
+  - 분류: `경진대회`
+  - 주최: 데이콘
+  - 일시: 05. 30(월) ~ 06. 10(금)
+- __[I/O 22 Extended in Korea Android](https://festa.io/events/2339)__
+  - 분류: `웨비나`, `오프라인`, `안드로이드`
+  - 주최: Extended Korea Android
+  - 일시: 06. 11(토) 13:00 ~ 18:00
 - __[마이 핀테크 서비스 개발경진대회](https://www.onoffmix.com/event/255864)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 16(월) ~ 06. 13(월)
+- __[삼성SDS 2022 하계 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSfy9AtkDthvIZVS6Ees6dYq09X0wz2IUca5elW4d0qVlSCvtw/viewform)__
+  - 분류: `교육`
+  - 주최: 삼성SDS
+  - 접수: 05. 30(월) ~ 06. 13(월)
+- __[제3회 AI·블록체인 아이디어 경진대회](https://www.baeulang.kr/bbs/board.php?bo_table=notice&wr_id=40)__
+  - 분류: `경진대회`
+  - 주최: 한국정보통신진흥협회
+  - 접수: 05. 03(화) ~ 06. 14(화)
+- __[좋은 코드에 대한 『클린코드』 역자의 생각들](https://www.wanted.co.kr/events/udemykoreacleancode)__
+  - 분류: `웨비나`, `클린코드`
+  - 주최: Udemy Korea(웅진 씽크빅)
+  - 접수: 06. 16(목)
 - __[메타버스엑스포 2022](https://metavexpo.com/visitor/registration/)__
   - 분류: `오프라인`, `메타버스`
   - 주최: (주)메쎼이상
   - 일시: 06. 15(수) ~ 06. 17(금)
+- __[부스트캠프 웹·모바일 7기](https://blog.naver.com/boostcamp_official/222743073202)__
+  - 분류: `교육`, `웹`, `안드로이드`, `IOS`
+  - 주최: 네이버 커넥트 재단
+  - 접수: 06. 02(목) ~ 06. 21(화) 11:00
+- __[2022 오픈소스 컨트리뷰션 아카데미 멘티모집](https://www.oss.kr/notice/show/cf492935-9cf2-4755-98d8-e1ea6aae7abd)__
+  - 분류: `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 16(월) ~ 06. 21(화)
+- __[NVIDIA AI 개발자 밋업 - TAO Toolkit](https://festa.io/events/2348)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 06. 21(화) 14:00 ~ 16:00
 - __[2022년 현대모비스 알고리즘 경진대회](https://allforyoung.com/posts/16398/)__
   - 분류: `경진대회`, `알고리즘`
   - 주최: 현대모비스
   - 일시: 05. 20(금) ~ 06. 24(금)
+- __[GDG 썸머 해커톤 : 오프티벌](https://festa.io/events/2314)__
+  - 분류: `해커톤`
+  - 주최: GDG Campus Korea
+  - 일시: 06. 25(토) 11:30 ~ 06. 26(일) 16:00
+- __[ESG 아이디어톤 참가자 모집](https://mobisthon.com/)__
+  - 분류: `아이디어톤`
+  - 주최: 현대모비스
+  - 일시: 06. 07(화) ~ 06. 26(일)
 - __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
   - 분류: `대회`, `인공지능`
   - 주최: 에트리
@@ -471,6 +446,10 @@
   <tr>
     <td align="center"><a href="http://gunhoflash.tistory.com"><img src="https://avatars.githubusercontent.com/u/10149370?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GF</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=gunhoflash" title="Code">💻</a></td>
     <td align="center"><a href="http://penielcho.com"><img src="https://avatars.githubusercontent.com/u/60251602?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peniel Cho &#124; 조용주</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=thepenielcho" title="Code">💻</a></td>
+    <td align="center"><a href="http://saehyun.kr"><img src="https://avatars.githubusercontent.com/u/80076029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>임세현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=limsaehyun" title="Code">💻</a></td>
+    <td align="center"><a href="https://parkshistory.tistory.com/"><img src="https://avatars.githubusercontent.com/u/26460114?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kim Min Gyu</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ysjk2003" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Cardroid"><img src="https://avatars.githubusercontent.com/u/25889754?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CP6</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Cardroid" title="Code">💻</a></td>
+    <td align="center"><a href="https://milkclouds.work/"><img src="https://avatars.githubusercontent.com/u/26109705?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MilkClouds</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=MilkClouds" title="Code">💻</a></td>
   </tr>
 </table>
 
